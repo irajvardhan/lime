@@ -1,0 +1,8 @@
+In terminal,
+
+#go to lime directory
+source activate dl
+python setup.py install
+jupyter notebook
+
+#import lime should work
